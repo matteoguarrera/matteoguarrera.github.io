@@ -12,10 +12,10 @@
 
   setInterval(
     function () {
-      hue = (hue + 1) % 360.;
+      hue = 1 % 360.; //
 
       if (isDark) {
-        bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg) invert(1) saturate(2)', '');
+        bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)  saturate(0)', ''); // invert(1)
       } else {
         bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)', '');
       }
