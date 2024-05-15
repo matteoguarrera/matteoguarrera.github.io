@@ -44,15 +44,18 @@ profiles:
     label: Download my resume
 ---
 
-My research focus is ***ML4Science***. In particular I am working on Physics-Inspired Machine Learning for Dynamical Systems 
+My research focus is _ML4Science_. In particular I am working on Physics-Inspired Machine Learning for Dynamical Systems 
 at the boundary of Modeling, Differential Equations, Solvers and Neural Networks. 
 I am part of the Berkeley AI Research (BAIR) group, the coolest group in Berkeley :) 
 where I collaborate with some of the world's leading experts in machine learning and robotics. 
 Committed to continuous learning, I am now deepening expertise in the Deep Unsupervised Learning, 
 Generative Models and LLMs finetune for long context understanding. 
+
 I welcome any opportunity to connect with fellow researchers, students, 
 or enthusiasts in the ML4Science field. My goal is to contribute to the development and application of 
 AI for the benefit of society and humanity. 
-Graduation Date: Spring 2027. Proficient in Python, PyTorch, C, MATLAB.
+Graduation Date: Spring 2027. 
+
+Proficient in Python, PyTorch, C, MATLAB.
 
  If you'd like to connect please leave a message, in Italian🇮🇹, English🇺🇸 or French🇫🇷!  

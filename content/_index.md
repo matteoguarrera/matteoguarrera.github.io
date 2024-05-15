@@ -17,7 +17,7 @@ sections:
 
     design:
       biography:
-        style: 'font-size: 1.em; font-weight: 550; background-color: rgba(237, 231, 225, 0.9);  color: white; '
+        style: 'font-size: 1.em; font-weight: 450; background-color: rgba(237, 231, 225, 0.9);  color: rgb(105, 102, 99); '
 
   - block: cta-button-list
     content:
