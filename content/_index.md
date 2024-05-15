@@ -30,7 +30,7 @@ sections:
         - text: Checkout my Google Scholar
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=IYVNi68AAAAJ&hl=it
-        - text: Leave a message to connect with me on LinkedIn
+        - text: Leave a message to connect with me
           icon: brands/linkedin
           url: https://www.linkedin.com/in/matteoguarrera/
 ---
