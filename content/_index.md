@@ -14,21 +14,25 @@ sections:
     content:
       # The user's folder name in content/authors/
       username: admin
+
     design:
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'font-size: 0.9em;  background-color: rgba(237, 231, 225, 0.5);  color: white;'
+
   - block: cta-button-list
     content:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
+        - text: Read my latest paper on Robust Anomaly Detection
           icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
+          url: https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Guarrera_Class-Wise_Thresholding_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf
+        - text: Checkout my Google Scholar
+          icon: brands/google-scholar
+          url: https://scholar.google.com/citations?user=IYVNi68AAAAJ&hl=it
+        - text: Leave a message to connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/matteoguarrera/
 ---
+
+// background-color: rgba(237, 231, 225, 0.8); text-align: justify;         st.style.color = 'black'; // Change text color to black  // color: white
