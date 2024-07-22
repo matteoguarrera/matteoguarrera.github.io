@@ -24,12 +24,18 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
+        - text: Checkout my latest Interview
+          icon: brands/youtube
+          url: https://www.youtube.com/watch?v=R_rCEW5wvx4
+
         - text: Read my latest paper on Robust Anomaly Detection
           icon: academicons/arxiv
           url: https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Guarrera_Class-Wise_Thresholding_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf
+
         - text: Checkout my Google Scholar
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=IYVNi68AAAAJ&hl=it
+        
         - text: Leave a message to connect with me
           icon: brands/linkedin
           url: https://www.linkedin.com/in/matteoguarrera/
