@@ -28,6 +28,10 @@ sections:
           icon: brands/youtube
           url: https://www.youtube.com/watch?v=R_rCEW5wvx4
 
+        - text: Who am I? Here my Personal Statement
+          icon: custom/person-raised-hand
+          url: uploads/personal_statement.pdf
+
         - text: Read my latest paper on Robust Anomaly Detection
           icon: academicons/arxiv
           url: https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Guarrera_Class-Wise_Thresholding_for_Robust_Out-of-Distribution_Detection_CVPRW_2022_paper.pdf

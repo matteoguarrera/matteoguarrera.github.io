@@ -42,6 +42,10 @@ profiles:
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
+  
+  - icon: custom/ucbseal
+    url: uploads/personal_statement.pdf
+    label: Personal Statement
 ---
 
 My research focus is _ML4Science_. In particular I am working on Physics-Inspired Machine Learning for Dynamical Systems 
