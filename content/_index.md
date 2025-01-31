@@ -29,7 +29,7 @@ sections:
           url: https://www.youtube.com/watch?v=R_rCEW5wvx4
 
         - text: Who am I? Here my Personal Statement
-          icon: custom/person-raised-hand
+          icon: academicons/obp
           url: uploads/personal_statement.pdf
 
         - text: Read my latest paper on Robust Anomaly Detection
