@@ -17,7 +17,9 @@
       if (isDark) {
         bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)  saturate(0)', ''); // invert(1)
       } else {
-        bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)', '');
+        // bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)', '');
+        bg.style.setProperty('filter', 'hue-rotate(' + hue + 'deg)  saturate(0)', ''); // invert(1)
+
       }
 
     }, (5000 / 360.));

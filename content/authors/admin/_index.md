@@ -43,7 +43,7 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
   
-  - icon: custom/ucbseal
+  - icon: academicons/obp
     url: uploads/personal_statement.pdf
     label: Personal Statement
 ---
