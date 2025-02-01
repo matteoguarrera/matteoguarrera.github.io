@@ -40,11 +40,11 @@ profiles:
     url: https://scholar.google.com/citations?user=IYVNi68AAAAJ&hl=it
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: static/uploads/resume.pdf
     label: Download my resume
   
   - icon: academicons/obp
-    url: uploads/personal_statement.pdf
+    url: static/uploads/personal_statement.pdf
     label: Personal Statement
 ---
 
